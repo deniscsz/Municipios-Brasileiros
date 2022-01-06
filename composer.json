@@ -1,0 +1,13 @@
+{
+  "name": "deniscsz/municipios-brasileiros",
+  "description": "Arquivos SQL, CSV e JSON contendo o código IBGE, nome do município, capital, código UF, UF, estado, latitude, longitude, código SIAFI, DDD e fuso horário de todos (ou quase todos) os municípios brasileiros. Repositório Original: https://github.com/kelvins",
+  "type": "vcs",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Kelvin S. do Prado",
+      "email": "kelvinpfw@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
